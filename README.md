@@ -11,3 +11,4 @@ The application uses machine learning models for predictions. User has to enter 
 ### Dataset : 
 The dataset consists of data captured by the US and State departments
 of transportation, law enforcement agencies.
+tarun vegi
