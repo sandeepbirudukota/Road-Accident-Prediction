@@ -1,6 +1,6 @@
 # Road-Accident-Prediction
 
-## Abstract :
+## Abstract : -
 
 In this project, we try to overcome the problem of Road Traffic Accident(RTA) in USA by providing a tool to predict accident risk so that users can make informed decision about their traveling route. This application provides information about the severity of accident at selected location based on factors such as time and weather conditions. This application provides a dashboard for drivers where they can check the accident rate for a city. 
 
