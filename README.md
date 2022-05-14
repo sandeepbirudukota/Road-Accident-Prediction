@@ -12,3 +12,4 @@ The application uses machine learning models for predictions. User has to enter 
 The dataset consists of data captured by the US and State departments
 of transportation, law enforcement agencies.
 * https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/code
+   
