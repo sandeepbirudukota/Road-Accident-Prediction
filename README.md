@@ -1,4 +1,4 @@
-# Road-Accident-Severity-Prediction
+# Road-Accident-Prediction
 
 ## Abstract : -
 
